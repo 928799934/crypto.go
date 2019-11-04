@@ -1,0 +1,7 @@
+.idea/
+*.exe
+*.html
+*.tgz
+*.tar.gz
+*.log
+.DS_Store
